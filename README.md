@@ -1,5 +1,10 @@
 # Dictionary for developers
-A list containing developement tools and what they do.
+A list containing developement tools, languages, words among others and what they mean.
 
- - ionic.io/ionicons - A collection with free development icons;
- - stackedit.io - Online free .md files editor (I even used to write this)  ;
+Languages:
+ - PHP: A script language used to develop website backends. 
+
+Tools: 
+ - ionic.io/ionicons: A collection with free development icons;
+ - stackedit.io: Online free .md files editor (I even used to write this)  ;
+
