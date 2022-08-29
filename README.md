@@ -3,6 +3,7 @@ A list containing developement tools, languages, words among others and what the
 
 Languages:
  - PHP: A script language used to develop website backends. 
+ - Python: A programming language used for develop mobile apps, web back-ends, machine learning, etc.
 
 Tools: 
  - diagrams.net: A free and open source tool for create and edit diagrams;
