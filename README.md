@@ -2,6 +2,7 @@
 A list containing developement tools, languages, words among others and what they mean.
 
 Languages:
+ - JavaScript: A programming language used in almost front-end websites, and also in back-ends, mobile apps, etc.
  - PHP: A script language used to develop website backends. 
  - Python: A programming language used for develop mobile apps, web back-ends, machine learning, etc.
  
