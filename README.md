@@ -11,6 +11,7 @@ Languages:
 
 Tools: 
  - diagrams.net: A free and open source tool for create and edit diagrams;
+ - inertia: A tool used to merge Laravel and Vue JS with no difficulty;
  - ionic.io/ionicons: A collection with free development icons;
  - stackedit.io: Online free .md files editor (I even used to write this);
 
