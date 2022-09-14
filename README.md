@@ -7,7 +7,7 @@ Languages:
  - Python: A programming language used for develop mobile apps, web back-ends, machine learning, etc.
  
  Frameworks: 
- - VueJS: A JavaScript Framework, apparently the easer to learn. 
+ - VueJS: A JavaScript Framework, apparently the easer to learn between three most famous. 
 
 Tools: 
  - diagrams.net: A free and open source tool for create and edit diagrams;
